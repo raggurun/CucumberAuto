@@ -1,0 +1,10 @@
+2021-09-09 14:25:22,316 [INFO ] com.learning.step_definitions.CommonStepdef [main] Execution Started
+2021-09-09 14:25:22,335 [INFO ] com.learning.step_definitions.CommonStepdef [main] Instantiation the CommonUtils
+2021-09-09 14:25:22,337 [INFO ] com.learning.step_definitions.CommonStepdef [main] Loading the properties file
+2021-09-09 14:25:22,338 [INFO ] com.learning.step_definitions.CommonStepdef [main] Checking the driver is NULL or NOT?
+2021-09-09 14:25:22,338 [INFO ] com.learning.step_definitions.CommonStepdef [main] Driver is NULL. Instantiating it!
+2021-09-09 14:25:22,339 [INFO ] com.learning.step_definitions.CommonStepdef [main] Launching chrome
+2021-09-09 14:25:25,079 [INFO ] com.learning.step_definitions.CommonStepdef [main] Execution Started
+2021-09-09 14:25:25,079 [INFO ] com.learning.step_definitions.CommonStepdef [main] Instantiation the CommonUtils
+2021-09-09 14:25:25,080 [INFO ] com.learning.step_definitions.CommonStepdef [main] Loading the properties file
+2021-09-09 14:25:25,080 [INFO ] com.learning.step_definitions.CommonStepdef [main] Checking the driver is NULL or NOT?
